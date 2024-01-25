@@ -9,8 +9,8 @@ Language: English
 Trying out the FLUTTER Web App🤩. Create simple Flutter Web App increment and decrement counter with dart
 
 ### Requirements
-- Dart SDK already installed ```3.2.5 (stable)```
-- Flutter already installed ```3.16.8 • channel stable```
+- Dart SDK already installed ```3.2.5 (stable)``` or above
+- Flutter already installed ```3.16.8 • channel stable``` or above
 - Your fav IDE/TextEditor (I personally use Android Studio)
 
 ### Instruction
