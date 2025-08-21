@@ -2,3 +2,5 @@
 android/
 ios/
 macos/
+/.idea/
+/flutter_web_app.iml
